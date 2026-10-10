@@ -1,0 +1,49 @@
+{
+  "blogs": [
+    {
+      "id": "theollaga",
+      "name": "The Ollaga",
+      "url": "https://www.theollaga.com",
+      "platform": "blogger",
+      "feed_url": "https://www.theollaga.com/feeds/posts/default?alt=rss",
+      "sitemap_url": "https://www.theollaga.com/sitemap.xml",
+      "enabled": true
+    },
+    {
+      "id": "naver_the_ollaga",
+      "name": "올라가의 돈 되는 생존 노트",
+      "url": "https://blog.naver.com/the-ollaga",
+      "platform": "naver",
+      "feed_url": "https://rss.blog.naver.com/the-ollaga.xml",
+      "sitemap_url": "",
+      "enabled": true
+    },
+    {
+      "id": "naver_qkfkachs",
+      "name": "오늘의 화제노트",
+      "url": "https://blog.naver.com/qkfkachs",
+      "platform": "naver",
+      "feed_url": "https://rss.blog.naver.com/qkfkachs.xml",
+      "sitemap_url": "",
+      "enabled": true
+    },
+    {
+      "id": "naver_iamfree01",
+      "name": "프리라이프 큐레이션",
+      "url": "https://blog.naver.com/iamfree01",
+      "platform": "naver",
+      "feed_url": "https://rss.blog.naver.com/iamfree01.xml",
+      "sitemap_url": "",
+      "enabled": true
+    },
+    {
+      "id": "smallhomefieldguide_blogspot_com",
+      "name": "SmallHomeFieldGuide",
+      "url": "https://smallhomefieldguide.blogspot.com",
+      "platform": "blogger",
+      "feed_url": "https://smallhomefieldguide.blogspot.com/feeds/posts/default?alt=rss",
+      "sitemap_url": "https://smallhomefieldguide.blogspot.com/sitemap.xml",
+      "enabled": true
+    }
+  ]
+}
